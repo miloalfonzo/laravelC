@@ -73,6 +73,7 @@
     @endforeach()
   </tbody>
 </table>
+  {{$notas->links()}}
     </div>
 
     <!-- Optional JavaScript -->
